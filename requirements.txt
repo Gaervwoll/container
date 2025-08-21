@@ -1,0 +1,8 @@
+argparse>=1.4.0
+rich>=13.0.0  # для красивого вывода 
+
+python-magic>=0.4.27  # file type detection
+watchdog>=3.0.0       # track file changes
+
+cryptography>=41.0.0  # encryption
+pillow>=10.0.0        # working with images
